@@ -1,6 +1,7 @@
 # Parking Proximity Alert System
 
 An Arduino-based collision detection and proximity warning system that uses an ultrasonic sensor to detect nearby objects and provide realtime visual and audio alerts.
+![img alt](<img width="1377" height="931" alt="image" src="https://github.com/user-attachments/assets/d2218b4c-0f0d-4827-a375-8e152b614958" />)
 
 ## Technologies
 
