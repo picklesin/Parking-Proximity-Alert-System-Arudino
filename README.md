@@ -2,9 +2,12 @@
 
 An Arduino-based collision detection and proximity warning system that uses an ultrasonic sensor to detect nearby objects and provide realtime visual and audio alerts.
 
-## Video Demo
+## Tinkercad Simulation
 
-https://www.youtube.com/shorts/eReND3b3wkg
+View the live circuit simulation here: https://www.tinkercad.com/things/jqEYSREVEMH-parking-proximity-alert-system
+
+Developed and tested using Tinkercad Circuits for Arduino simulation and prototyping.
+
 
 ## Technologies
 
